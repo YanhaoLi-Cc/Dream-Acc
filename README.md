@@ -7,7 +7,7 @@
 - 📫 How to reach me: 1310724226@qq.com 2012286@mail.nankai.edu.cn
 - ⚡ WeChat: lyh1310724226
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Dream-Acc&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dream-Acc&theme=xcode" /> </div>
 <!--
 **Dream-Acc/Dream-Acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
