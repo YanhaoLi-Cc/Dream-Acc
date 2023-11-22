@@ -2,7 +2,7 @@
 
 ### Hi, I'm Yanhao Li. 👋
 
-- 🔭 I’m currently studying at college of Software Engineering, Nankai University.
+- 🔭 I’m currently studying at college of Software, Nankai University.
 - 🌱 I’m currently learning Deep-Learning, Quantitative investment.
 - 📫 How to reach me: 1310724226@qq.com 2012286@mail.nankai.edu.cn
 - ⚡ WeChat: lyh1310724226
